@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Festival Companion</title>
+<meta name="description" content="A child-friendly introduction to Hindu festivals — the story, why we celebrate, temple rituals, and a shloka — to read before visiting the temple.">
+<meta name="theme-color" content="#7A2048">
+
+<!-- Content Security Policy. Note: frame-ancestors is ignored in <meta> and must
+     be set as an HTTP header by the host if you embed this on the temple site.
+     See README.md > Security. -->
+<meta http-equiv="Content-Security-Policy" content="
+  default-src 'self';
+  base-uri 'self';
+  object-src 'none';
+  img-src 'self' data:;
+  media-src 'self';
+  script-src 'self';
+  style-src 'self' https://fonts.googleapis.com;
+  font-src 'self' https://fonts.gstatic.com;
+  connect-src 'self';
+  manifest-src 'self';
+">
+
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="assets/icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/icons/icon-192.png">
+
+<!-- Fonts are the only third-party resource (Google Fonts). Documented in README. -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Work+Sans:wght@400;500;600;700&family=Noto+Sans+Telugu:wght@400;600;700&family=Noto+Sans+Tamil:wght@400;600;700&family=Noto+Sans+Devanagari:wght@400;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<a class="skip-link" href="#cardRoot">Skip to festival content</a>
+
+<div class="wrap">
+  <header>
+    <p class="app-brand">
+      <img id="templeLogo" class="temple-logo" alt="" hidden>
+      <span id="templeName" class="temple-name"></span>
+    </p>
+
+    <svg class="diya" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+      <ellipse cx="24" cy="34" rx="16" ry="7" fill="#C79A2E"/>
+      <path d="M8 34c0 6 7.2 8 16 8s16-2 16-8" stroke="#7A2048" stroke-width="1.5" fill="none"/>
+      <path id="flame" d="M24 10c-3 5-5 8-5 12a5 5 0 0010 0c0-4-2-7-5-12z" fill="#E8871E">
+        <animate attributeName="d" dur="1.6s" repeatCount="indefinite"
+          values="M24 10c-3 5-5 8-5 12a5 5 0 0010 0c0-4-2-7-5-12z;
+                  M24 8c-2.6 5.5-4.6 8.6-4.6 12.4a4.6 4.6 0 009.2 0c0-3.8-2-7-4.6-12.4z;
+                  M24 10c-3 5-5 8-5 12a5 5 0 0010 0c0-4-2-7-5-12z"/>
+      </path>
+    </svg>
+
+    <h1>Festival Companion</h1>
+    <p class="tagline">Stories, rituals, and slokas for our family, before every temple visit</p>
+  </header>
+
+  <p id="disclaimer" class="disclaimer"></p>
+
+  <div class="lang-row" id="langToggle" role="group" aria-label="Choose language"></div>
+
+  <div class="fest-select-row">
+    <p class="calendar-year-label" id="calendarYearLabel"></p>
+    <label class="sr-only" for="festSelect">Choose a festival</label>
+    <select id="festSelect" aria-label="Choose a festival"></select>
+  </div>
+
+  <div class="links-row" id="linksRow" hidden></div>
+
+  <main id="cardRoot" class="card" tabindex="-1" lang="en">
+    <!-- Festival content is rendered here by js/app.js -->
+  </main>
+
+  <footer>
+    <div class="links-row" id="footerLinks" hidden></div>
+    <p id="footerMessage"></p>
+    <p id="reviewAttribution" class="review-attribution"></p>
+  </footer>
+</div>
+
+<!-- Polite live region for quiz feedback / score announcements -->
+<div id="srLive" class="sr-only" role="status" aria-live="polite"></div>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
