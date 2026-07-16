@@ -3393,7 +3393,7 @@
       "order": 15,
       "deity": null,
       "icon": "vasanthpanchami",
-      "image": null,
+      "image": "assets/images/vasanthpanchami.jpg",
       "languages": {
         "en": {
           "title": "Vasant Panchami",
@@ -3859,7 +3859,7 @@
       "order": 17,
       "deity": null,
       "icon": "thaipoosam",
-      "image": null,
+      "image": "assets/images/thaipoosam.jpg",
       "languages": {
         "en": {
           "title": "Thai Poosam",
@@ -4325,7 +4325,7 @@
       "order": 19,
       "deity": null,
       "icon": "panguniuthiram",
-      "image": null,
+      "image": "assets/images/panguniuthiram.jpg",
       "languages": {
         "en": {
           "title": "Panguni Uthiram",
@@ -4791,7 +4791,7 @@
       "order": 21,
       "deity": null,
       "icon": "adikrithika",
-      "image": null,
+      "image": "assets/images/adikrithika.jpg",
       "languages": {
         "en": {
           "title": "Adi Krithika",
@@ -5490,7 +5490,7 @@
       "order": 24,
       "deity": null,
       "icon": "thiruonam",
-      "image": null,
+      "image": "assets/images/thiruonam.jpg",
       "languages": {
         "en": {
           "title": "Thiru Onam",
@@ -5956,7 +5956,7 @@
       "order": 26,
       "deity": null,
       "icon": "sharadnavaratri",
-      "image": null,
+      "image": "assets/images/sharadnavaratri.jpg",
       "languages": {
         "en": {
           "title": "Sharad Navaratri",
@@ -6422,7 +6422,7 @@
       "order": 28,
       "deity": null,
       "icon": "karthikapoornima",
-      "image": null,
+      "image": "assets/images/karthikapoornima.jpg",
       "languages": {
         "en": {
           "title": "Karthika Poornima",
@@ -6655,7 +6655,7 @@
       "order": 29,
       "deity": null,
       "icon": "subramanyashashti",
-      "image": null,
+      "image": "assets/images/subramanyashashti.jpg",
       "languages": {
         "en": {
           "title": "Subramanya Shashti",
