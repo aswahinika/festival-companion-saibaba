@@ -3448,7 +3448,8 @@
               "answer": 0,
               "explanation": null
             }
-          ]
+          ],
+          "narration": "assets/audio/narration/vasanthpanchami-en.mp3"
         }
       }
     },
@@ -3458,7 +3459,7 @@
       "order": 16,
       "deity": null,
       "icon": "rathasaptami",
-      "image": null,
+      "image": "assets/images/rathasaptami.jpg",
       "languages": {
         "en": {
           "title": "Ratha Saptami",
@@ -3513,7 +3514,8 @@
               "answer": 0,
               "explanation": null
             }
-          ]
+          ],
+          "narration": "assets/audio/narration/rathasaptami-en.mp3"
         }
       }
     },
@@ -3578,7 +3580,8 @@
               "answer": 0,
               "explanation": null
             }
-          ]
+          ],
+          "narration": "assets/audio/narration/thaipoosam-en.mp3"
         }
       }
     },
@@ -3588,7 +3591,7 @@
       "order": 18,
       "deity": null,
       "icon": "holi",
-      "image": null,
+      "image": "assets/images/holi.jpg",
       "languages": {
         "en": {
           "title": "Holi",
@@ -3643,7 +3646,8 @@
               "answer": 0,
               "explanation": null
             }
-          ]
+          ],
+          "narration": "assets/audio/narration/holi-en.mp3"
         }
       }
     },
@@ -3708,7 +3712,8 @@
               "answer": 0,
               "explanation": null
             }
-          ]
+          ],
+          "narration": "assets/audio/narration/panguniuthiram-en.mp3"
         }
       }
     },
@@ -3718,7 +3723,7 @@
       "order": 20,
       "deity": null,
       "icon": "shanitrayodasi",
-      "image": null,
+      "image": "assets/images/shanitrayodasi.jpg",
       "languages": {
         "en": {
           "title": "Shani Trayodasi",
@@ -3773,7 +3778,8 @@
               "answer": 0,
               "explanation": null
             }
-          ]
+          ],
+          "narration": "assets/audio/narration/shanitrayodasi-en.mp3"
         }
       }
     },
@@ -3838,7 +3844,8 @@
               "answer": 0,
               "explanation": null
             }
-          ]
+          ],
+          "narration": "assets/audio/narration/adikrithika-en.mp3"
         }
       }
     },
@@ -3848,7 +3855,7 @@
       "order": 22,
       "deity": null,
       "icon": "saivigrahaprathista",
-      "image": null,
+      "image": "assets/images/saivigrahaprathista.jpg",
       "languages": {
         "en": {
           "title": "Sai Vigraha Pratishtha Varshikotsavam",
@@ -3903,7 +3910,8 @@
               "answer": 0,
               "explanation": null
             }
-          ]
+          ],
+          "narration": "assets/audio/narration/saivigrahaprathista-en.mp3"
         }
       }
     },
@@ -3913,7 +3921,7 @@
       "order": 23,
       "deity": null,
       "icon": "varalakshmi",
-      "image": null,
+      "image": "assets/images/varalakshmi.jpg",
       "languages": {
         "en": {
           "title": "Vara Lakshmi Vratham",
@@ -3968,7 +3976,8 @@
               "answer": 0,
               "explanation": null
             }
-          ]
+          ],
+          "narration": "assets/audio/narration/varalakshmi-en.mp3"
         }
       }
     },
@@ -4033,7 +4042,8 @@
               "answer": 0,
               "explanation": null
             }
-          ]
+          ],
+          "narration": "assets/audio/narration/thiruonam-en.mp3"
         }
       }
     },
@@ -4043,7 +4053,7 @@
       "order": 25,
       "deity": null,
       "icon": "rakshabandhan",
-      "image": null,
+      "image": "assets/images/rakshabandhan.jpg",
       "languages": {
         "en": {
           "title": "Raksha Bandhan",
@@ -4098,7 +4108,8 @@
               "answer": 0,
               "explanation": null
             }
-          ]
+          ],
+          "narration": "assets/audio/narration/rakshabandhan-en.mp3"
         }
       }
     },
@@ -4163,7 +4174,8 @@
               "answer": 0,
               "explanation": null
             }
-          ]
+          ],
+          "narration": "assets/audio/narration/sharadnavaratri-en.mp3"
         }
       }
     },
@@ -4173,7 +4185,7 @@
       "order": 27,
       "deity": null,
       "icon": "saraswatipuja",
-      "image": null,
+      "image": "assets/images/saraswatipuja.jpg",
       "languages": {
         "en": {
           "title": "Saraswati Puja",
@@ -4228,7 +4240,8 @@
               "answer": 0,
               "explanation": null
             }
-          ]
+          ],
+          "narration": "assets/audio/narration/saraswatipuja-en.mp3"
         }
       }
     },
@@ -4293,7 +4306,8 @@
               "answer": 0,
               "explanation": null
             }
-          ]
+          ],
+          "narration": "assets/audio/narration/karthikapoornima-en.mp3"
         }
       }
     },
@@ -4358,7 +4372,8 @@
               "answer": 0,
               "explanation": null
             }
-          ]
+          ],
+          "narration": "assets/audio/narration/subramanyashashti-en.mp3"
         }
       }
     },
@@ -4368,7 +4383,7 @@
       "order": 30,
       "deity": null,
       "icon": "dattatreya",
-      "image": null,
+      "image": "assets/images/dattatreya.jpg",
       "languages": {
         "en": {
           "title": "Datta Jayanti",
@@ -4423,7 +4438,8 @@
               "answer": 0,
               "explanation": null
             }
-          ]
+          ],
+          "narration": "assets/audio/narration/dattatreya-en.mp3"
         }
       }
     }
