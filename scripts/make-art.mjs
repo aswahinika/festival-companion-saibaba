@@ -241,27 +241,38 @@ const motifs = {
 // ---- per-festival assignment (motif + accent) ----------------------------
 
 const MAP = {
+  // carry-over festivals
   shivaratri: ['trishul', C.maroon],
   ramanavami: ['bow', C.gold],
   ganeshchaturthi: ['modak', C.marigold],
   janmashtami: ['flute', C.green],
   dussehra: ['bow', C.maroon],
   diwali: ['diyas', C.marigold],
-  godakalyanam: ['lotus', C.maroon],
   makarasankranti: ['sun', C.marigold],
-  mahalakshmijayanthi: ['lotus', C.gold],
   yugadi: ['kalash', C.green],
   hanumanjayanthi: ['mace', C.marigold],
-  sivalayavarshikotsavam: ['trishul', C.gold],
   tamilnewyearvishu: ['kalash', C.green],
   akshayatritiya: ['conch', C.gold],
-  brahmotsavam: ['conch', C.maroon],
   gurupurnima: ['book', C.maroon],
-  pavithrotsavam: ['thread', C.gold],
-  srivarujayanti: ['conch', C.maroon],
   skandashashti: ['vel', C.marigold],
-  ayyappamandala: ['steps', C.maroon],
   vaikunthaekadasi: ['conch', C.gold],
+  // new Sai-calendar festivals
+  vasanthpanchami: ['book', C.gold],
+  rathasaptami: ['sun', C.marigold],
+  thaipoosam: ['vel', C.marigold],
+  holi: ['lotus', C.marigold],
+  panguniuthiram: ['steps', C.maroon],
+  shanitrayodasi: ['diyas', C.maroon],
+  adikrithika: ['vel', C.marigold],
+  saivigrahaprathista: ['diyas', C.gold],
+  varalakshmi: ['lotus', C.gold],
+  thiruonam: ['lotus', C.green],
+  rakshabandhan: ['thread', C.gold],
+  sharadnavaratri: ['trishul', C.maroon],
+  saraswatipuja: ['book', C.gold],
+  karthikapoornima: ['diyas', C.marigold],
+  subramanyashashti: ['vel', C.marigold],
+  dattatreya: ['trishul', C.maroon],
 };
 
 function buildSvg(id) {

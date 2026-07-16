@@ -3386,6 +3386,1046 @@
           ]
         }
       }
+    },
+    {
+      "id": "vasanthpanchami",
+      "slug": "vasanthpanchami",
+      "order": 15,
+      "deity": null,
+      "icon": "vasanthpanchami",
+      "image": null,
+      "languages": {
+        "en": {
+          "title": "Vasant Panchami",
+          "subtitle": "The day we honour Goddess Saraswati",
+          "story": "Vasant Panchami welcomes spring and honours Goddess Saraswati, the goddess of learning, music, and the arts. On this bright day people wear yellow, the colour of the ripening fields and of the returning warmth of the sun. It is considered one of the best days to begin something new, so young children are often taught to write their first letters, and students place their books before the goddess for her blessing.",
+          "rituals": "The temple offers special prayers to Saraswati with yellow flowers and sweets, and devotees place books, pens, and musical instruments before her to be blessed.",
+          "importance": "We celebrate Vasant Panchami to ask Goddess Saraswati for wisdom and a love of learning, and to remember that knowledge, shared and practised with devotion, is one of life’s greatest gifts. Beginning something new on this day is a way of starting it with her blessing.",
+          "shloka": {
+            "original": "सरस्वति नमस्तुभ्यं वरदे कामरूपिणि ।\nविद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा ॥",
+            "transliteration": "Sarasvati Namastubhyam Varade Kaamaroopini,\nVidyaarambham Karishyaami Siddhir Bhavatu Me Sadaa",
+            "meaning": "Salutations to you, Goddess Saraswati, giver of boons, who can take any form. As I begin my learning, may success always be mine.",
+            "audio": null
+          },
+          "quiz": [
+            {
+              "question": "Which goddess is honoured on Vasant Panchami?",
+              "options": [
+                "Goddess Saraswati",
+                "Goddess Lakshmi",
+                "Goddess Durga"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Which colour is traditionally worn?",
+              "options": [
+                "Yellow",
+                "Black",
+                "Blue"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "What do students place before the goddess?",
+              "options": [
+                "Books and instruments",
+                "Toys",
+                "Coins"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Vasant Panchami welcomes which season?",
+              "options": [
+                "Spring",
+                "Winter",
+                "Monsoon"
+              ],
+              "answer": 0,
+              "explanation": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "rathasaptami",
+      "slug": "rathasaptami",
+      "order": 16,
+      "deity": null,
+      "icon": "rathasaptami",
+      "image": null,
+      "languages": {
+        "en": {
+          "title": "Ratha Saptami",
+          "subtitle": "The Sun turns his chariot toward brighter days",
+          "story": "Ratha Saptami marks the day the Sun God, Surya, turns his mighty chariot — drawn by seven horses — toward the northern sky, bringing longer, warmer days. The seven horses are lovingly said to stand for the seven colours of light and the seven days of the week. It is celebrated as the Sun’s birthday and as a thank-you to the source of all light, warmth, and life.",
+          "rituals": "Devotees bathe early in the morning, and the temple performs a special Surya (Sun) puja at sunrise, with lamps and offerings made facing the rising sun.",
+          "importance": "We celebrate Ratha Saptami to thank the Sun for the light and warmth that let crops grow and life flourish, and to welcome the healthy, hopeful days ahead. It reminds us to begin each day with gratitude, like greeting the sunrise.",
+          "shloka": {
+            "original": "जपाकुसुमसंकाशं काश्यपेयं महाद्युतिम् ।\nतमोऽरिं सर्वपापघ्नं प्रणतोऽस्मि दिवाकरम् ॥",
+            "transliteration": "Japaakusuma-sankaasham Kaashyapeyam Mahaadyutim,\nTamo’rim Sarva-paapaghnam Pranato’smi Divaakaram",
+            "meaning": "I bow to the Sun, the maker of day, glowing like a hibiscus flower, of great brilliance, the enemy of darkness who removes all wrong.",
+            "audio": null
+          },
+          "quiz": [
+            {
+              "question": "How many horses draw Surya’s chariot?",
+              "options": [
+                "Seven",
+                "Three",
+                "Ten"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Ratha Saptami is celebrated as whose “birthday”?",
+              "options": [
+                "The Sun (Surya)",
+                "The Moon",
+                "Agni"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "When is the special puja performed?",
+              "options": [
+                "At sunrise",
+                "At midnight",
+                "At noon"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "The seven horses are said to stand for?",
+              "options": [
+                "The seven colours of light",
+                "Seven rivers",
+                "Seven mountains"
+              ],
+              "answer": 0,
+              "explanation": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "thaipoosam",
+      "slug": "thaipoosam",
+      "order": 17,
+      "deity": null,
+      "icon": "thaipoosam",
+      "image": null,
+      "languages": {
+        "en": {
+          "title": "Thai Poosam",
+          "subtitle": "Lord Murugan and the divine spear",
+          "story": "Thai Poosam is celebrated in the Tamil month of Thai, on the day of the Poosam star. It remembers the day Goddess Parvati gave her son Lord Murugan a powerful spear, the Vel, to defeat a demon troubling the world. Because Murugan won with courage and his mother’s blessing, devotees joyfully celebrate his victory of good over evil.",
+          "rituals": "Devotees carry beautifully decorated kavadis (arched offerings) on their shoulders as an act of devotion, and the temple honours Murugan with special abhishekam and prayers, chanting “Vel Vel Muruga”.",
+          "importance": "We celebrate Thai Poosam to remember that courage, guided by love and a good purpose, can overcome any difficulty. Carrying the kavadi is a way of offering our effort and hardship to God with gladness.",
+          "shloka": {
+            "original": "ॐ शरवणभवाय नमः ॥",
+            "transliteration": "Om Sharavana-bhavaaya Namaha",
+            "meaning": "Salutations to Lord Murugan, born in the reeds of the Saravana lake.",
+            "audio": null
+          },
+          "quiz": [
+            {
+              "question": "What did Parvati give Murugan?",
+              "options": [
+                "The Vel (spear)",
+                "A bow",
+                "A mace"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "What do devotees carry on Thai Poosam?",
+              "options": [
+                "Kavadi",
+                "Umbrellas",
+                "Flags"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Murugan is the son of?",
+              "options": [
+                "Shiva and Parvati",
+                "Vishnu",
+                "Brahma"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "In which Tamil month is Thai Poosam?",
+              "options": [
+                "Thai",
+                "Aadi",
+                "Margazhi"
+              ],
+              "answer": 0,
+              "explanation": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "holi",
+      "slug": "holi",
+      "order": 18,
+      "deity": null,
+      "icon": "holi",
+      "image": null,
+      "languages": {
+        "en": {
+          "title": "Holi",
+          "subtitle": "The festival of colours",
+          "story": "Holi celebrates the arrival of spring and the victory of good over evil. A well-loved story tells of the boy Prahlada, whose faith in Lord Vishnu was so strong that even the fire meant to harm him could not, and it was the wicked Holika who was undone instead. The next day people played with colours in joy — and ever since, Holi has been a day of colour, laughter, and forgiveness.",
+          "rituals": "The evening before, a bonfire (Holika Dahan) is lit to mark good winning over evil. The next day people playfully colour one another and share sweets, and the temple offers prayers, sometimes offering colours to the deity too.",
+          "importance": "We celebrate Holi to welcome spring, to let go of old quarrels, and to enjoy the happy truth that goodness and faith are protected. The colours remind us that everyone, whatever their differences, can laugh and play together as one family.",
+          "shloka": {
+            "original": "ॐ नमो भगवते वासुदेवाय ॥",
+            "transliteration": "Om Namo Bhagavate Vaasudevaaya",
+            "meaning": "Salutations to Lord Vasudeva (Vishnu), who dwells within all beings.",
+            "audio": null
+          },
+          "quiz": [
+            {
+              "question": "Holi is best known as the festival of?",
+              "options": [
+                "Colours",
+                "Lights",
+                "Kites"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Whose faith was protected from the fire?",
+              "options": [
+                "Prahlada",
+                "Ravana",
+                "Kamsa"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "What is lit the evening before?",
+              "options": [
+                "A bonfire (Holika Dahan)",
+                "A row of lamps",
+                "Fireworks only"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Holi welcomes which season?",
+              "options": [
+                "Spring",
+                "Winter",
+                "Monsoon"
+              ],
+              "answer": 0,
+              "explanation": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "panguniuthiram",
+      "slug": "panguniuthiram",
+      "order": 19,
+      "deity": null,
+      "icon": "panguniuthiram",
+      "image": null,
+      "languages": {
+        "en": {
+          "title": "Panguni Uthiram",
+          "subtitle": "The birthday of Lord Ayyappa",
+          "story": "Panguni Uthiram falls in the Tamil month of Panguni, on the day of the Uthiram star, under a bright full moon. At this temple it is celebrated as the birthday of Lord Ayyappa — the son of Shiva and of Vishnu in the form of Mohini — who grew up to be a great protector and a guide to everyone who seeks him with a sincere heart, whatever their background.",
+          "rituals": "The temple holds special abhishekam and prayers for Lord Ayyappa, with devotees chanting “Swamiye Sharanam Ayyappa” and offering flowers and lamps.",
+          "importance": "We celebrate Panguni Uthiram to honour Lord Ayyappa’s birth and to remember that the divine welcomes everyone equally. It reminds us that devotion and good conduct matter far more than where we come from.",
+          "shloka": {
+            "original": "लोकवीरं महापूज्यं सर्वरक्षाकरं विभुम् ।\nपार्वतीहृदयानन्दं शास्तारं प्रणमाम्यहम् ॥",
+            "transliteration": "Lokaveeram Mahaapoojyam Sarva-rakshaakaram Vibhum,\nPaarvatee-hridayaanandam Shaastaaram Pranamaamyaham",
+            "meaning": "I bow to Lord Ayyappa (Shasta), hero of the world, greatly worshipped, protector of all, the joy of Parvati’s heart.",
+            "audio": null
+          },
+          "quiz": [
+            {
+              "question": "At this temple, Panguni Uthiram marks the birthday of?",
+              "options": [
+                "Lord Ayyappa",
+                "Lord Rama",
+                "Lord Ganesha"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Lord Ayyappa welcomes devotees of?",
+              "options": [
+                "Every background",
+                "One region only",
+                "Only kings"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "What do devotees chant?",
+              "options": [
+                "Swamiye Sharanam Ayyappa",
+                "Jai Sri Ram",
+                "Om Namah Shivaya"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "In which Tamil month does it fall?",
+              "options": [
+                "Panguni",
+                "Thai",
+                "Aadi"
+              ],
+              "answer": 0,
+              "explanation": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "shanitrayodasi",
+      "slug": "shanitrayodasi",
+      "order": 20,
+      "deity": null,
+      "icon": "shanitrayodasi",
+      "image": null,
+      "languages": {
+        "en": {
+          "title": "Shani Trayodasi",
+          "subtitle": "A day of prayer to Lord Shani",
+          "story": "Shani Trayodasi comes when the thirteenth day of the moon (Trayodasi) falls on a Saturday, the day of Lord Shani (Saturn). Shani is known as a strict but fair teacher who watches our actions and gently guides us to live honestly and patiently. Praying to him is a way of asking for the strength to face difficulties calmly and to keep doing what is right.",
+          "rituals": "Devotees light lamps with sesame (til) oil and offer black sesame and dark flowers, and the temple performs a special oil abhishekam for Lord Shani with his prayers.",
+          "importance": "We observe Shani Trayodasi to ask for patience, honesty, and courage in hard times, and to remember that difficulties, met with a steady heart, help us grow. Shani reminds us that fair, honest effort is always noticed.",
+          "shloka": {
+            "original": "नीलाञ्जनसमाभासं रविपुत्रं यमाग्रजम् ।\nछायामार्तण्डसम्भूतं तं नमामि शनैश्चरम् ॥",
+            "transliteration": "Neelaanjana-samaabhaasam Ravi-putram Yamaagrajam,\nChhaayaa-maartaanda-sambhootam Tam Namaami Shanaishcharam",
+            "meaning": "I bow to Lord Shani, dark like blue collyrium, son of the Sun and elder brother of Yama, born of Chhaya and the Sun.",
+            "audio": null
+          },
+          "quiz": [
+            {
+              "question": "Shani Trayodasi falls on which weekday?",
+              "options": [
+                "Saturday",
+                "Monday",
+                "Friday"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Shani is often described as a strict but?",
+              "options": [
+                "Fair teacher",
+                "Angry king",
+                "Playful child"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Which oil is used for the lamps and abhishekam?",
+              "options": [
+                "Sesame (til) oil",
+                "Ghee only",
+                "Coconut water"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Lord Shani is the son of?",
+              "options": [
+                "The Sun (Surya)",
+                "The Moon",
+                "Agni"
+              ],
+              "answer": 0,
+              "explanation": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "adikrithika",
+      "slug": "adikrithika",
+      "order": 21,
+      "deity": null,
+      "icon": "adikrithika",
+      "image": null,
+      "languages": {
+        "en": {
+          "title": "Adi Krithika",
+          "subtitle": "Lord Murugan’s star day in the month of Aadi",
+          "story": "Adi Krithika is celebrated in the Tamil month of Aadi, on the day of the Krithika star, which is specially linked to Lord Murugan. The six Krithika stars are lovingly remembered as the six mothers who cared for the infant Murugan, whose six faces watch over the world. It is a day of lamps, gratitude, and devotion to Murugan.",
+          "rituals": "The temple lights rows of lamps and performs special abhishekam and prayers to Lord Murugan, and devotees offer flowers and sing his praises.",
+          "importance": "We celebrate Adi Krithika to honour Lord Murugan and the loving care that raised him, and to ask for his protection and courage. The many lamps remind us to carry light and goodness into the world.",
+          "shloka": {
+            "original": "षडाननं कुङ्कुमरक्तवर्णं महामतिं दिव्यमयूरवाहनम् ।\nरुद्रस्य सूनुं सुरलोकनाथं ब्रह्मण्यदेवं शरणं प्रपद्ये ॥",
+            "transliteration": "Shadaananam Kunkuma-rakta-varnam Mahaamatim Divya-mayoora-vaahanam,\nRudrasya Soonum Suraloka-naatham Brahmanya-devam Sharanam Prapadye",
+            "meaning": "I take refuge in the six-faced Lord Murugan, red like kumkum, of great wisdom, who rides the divine peacock, son of Shiva and lord of the gods.",
+            "audio": null
+          },
+          "quiz": [
+            {
+              "question": "Adi Krithika honours which deity?",
+              "options": [
+                "Lord Murugan",
+                "Lord Rama",
+                "Lord Shani"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "The Krithika stars are remembered as Murugan’s?",
+              "options": [
+                "Six mothers",
+                "Six brothers",
+                "Six teachers"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "How many faces does Murugan have?",
+              "options": [
+                "Six",
+                "Two",
+                "Ten"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "In which Tamil month is it?",
+              "options": [
+                "Aadi",
+                "Thai",
+                "Panguni"
+              ],
+              "answer": 0,
+              "explanation": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "saivigrahaprathista",
+      "slug": "saivigrahaprathista",
+      "order": 22,
+      "deity": null,
+      "icon": "saivigrahaprathista",
+      "image": null,
+      "languages": {
+        "en": {
+          "title": "Sai Vigraha Pratishtha Varshikotsavam",
+          "subtitle": "The anniversary of installing Sai Baba’s idol",
+          "story": "This festival is the yearly celebration of the day the sacred idol (vigraha) of Shirdi Sai Baba was installed and consecrated in this temple. Sai Baba lived simply in Shirdi, teaching everyone — of every faith — to live with love, patience, and charity, and to trust that “Sabka Malik Ek”: one God watches over all. Installing his idol brought his loving presence into this temple for the whole community to gather around.",
+          "rituals": "The temple holds special abhishekam, alankaram (decoration), and prayers before Sai Baba’s idol, with bhajans and the Sai arati, and prasadam is shared with all who come.",
+          "importance": "We celebrate this day to give thanks for Sai Baba’s presence in our temple and to renew his teachings — love for all beings, patience in trouble, and faith. It reminds us that everyone is welcome at his feet.",
+          "shloka": {
+            "original": "ॐ श्री साईनाथाय नमः ॥",
+            "transliteration": "Om Shri Sai-naathaaya Namaha",
+            "meaning": "Salutations to Lord Sainath, Shirdi Sai Baba.",
+            "audio": null
+          },
+          "quiz": [
+            {
+              "question": "This festival marks the installation of?",
+              "options": [
+                "Sai Baba’s idol",
+                "A new bell",
+                "A garden"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "“Sabka Malik Ek” means?",
+              "options": [
+                "One God watches over all",
+                "Only one temple",
+                "Only one language"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Where did Sai Baba live?",
+              "options": [
+                "Shirdi",
+                "Tirupati",
+                "Kashi"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Who is welcome at Sai Baba’s feet?",
+              "options": [
+                "Everyone, of every faith",
+                "Only elders",
+                "Only priests"
+              ],
+              "answer": 0,
+              "explanation": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "varalakshmi",
+      "slug": "varalakshmi",
+      "order": 23,
+      "deity": null,
+      "icon": "varalakshmi",
+      "image": null,
+      "languages": {
+        "en": {
+          "title": "Vara Lakshmi Vratham",
+          "subtitle": "A vow to Goddess Lakshmi for the family’s well-being",
+          "story": "Vara Lakshmi Vratham is a special vow (vratham) kept mainly by women, honouring Goddess Vara Lakshmi, the giver of boons. “Vara” means a boon, and it is believed that worshipping her on this Friday brings the blessings of all eight forms of Lakshmi — health, wealth, courage, knowledge, food, victory, family, and prosperity — into the home.",
+          "rituals": "A pot (kalasham) is lovingly decorated as the goddess and worshipped with flowers, turmeric, and sweets. Women tie a sacred yellow thread, pray for their families, and share the prasadam.",
+          "importance": "We keep Vara Lakshmi Vratham to pray for the health and happiness of our loved ones, and to remember that true prosperity is far more than money — it is a home full of health, learning, courage, and care.",
+          "shloka": {
+            "original": "नमस्तेऽस्तु महामाये श्रीपीठे सुरपूजिते ।\nशङ्खचक्रगदाहस्ते महालक्ष्मि नमोऽस्तु ते ॥",
+            "transliteration": "Namaste’stu Mahaamaaye Shreepeethe Sura-poojite,\nShankha-chakra-gadaa-haste Mahaalakshmi Namo’stu Te",
+            "meaning": "Salutations to you, great Goddess Mahalakshmi, seated on the sacred lotus, worshipped by the gods, holding the conch, discus, and mace.",
+            "audio": null
+          },
+          "quiz": [
+            {
+              "question": "“Vara” means?",
+              "options": [
+                "A boon",
+                "A river",
+                "A song"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Who mainly keeps this vow?",
+              "options": [
+                "Women, for their families",
+                "Only kings",
+                "Only children"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "What is decorated as the goddess?",
+              "options": [
+                "A pot (kalasham)",
+                "A chariot",
+                "A tree"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Vara Lakshmi blesses a home with?",
+              "options": [
+                "Health, knowledge, courage and more",
+                "Only gold",
+                "Only rain"
+              ],
+              "answer": 0,
+              "explanation": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "thiruonam",
+      "slug": "thiruonam",
+      "order": 24,
+      "deity": null,
+      "icon": "thiruonam",
+      "image": null,
+      "languages": {
+        "en": {
+          "title": "Thiru Onam",
+          "subtitle": "The homecoming of the good King Mahabali",
+          "story": "Onam is a joyful harvest festival, best loved in Kerala. It remembers the good and generous King Mahabali, whose people were so happy that even the gods took notice. Lord Vishnu came as a small boy, Vamana, and in a famous story sent Mahabali to a realm below — but granted him one visit home each year. Onam is that homecoming, when people welcome their beloved king with flowers and feasts.",
+          "rituals": "Families lay beautiful flower carpets (pookalam) at their doorstep to welcome King Mahabali, prepare a grand feast (sadhya) on a banana leaf, and the temple offers special prayers to Vishnu (Vamana).",
+          "importance": "We celebrate Onam to honour a king who ruled with fairness and generosity, and to welcome the spirit of a happy, equal community. It reminds us that a good leader and a giving heart are never forgotten.",
+          "shloka": {
+            "original": "ॐ नमो भगवते वासुदेवाय ॥",
+            "transliteration": "Om Namo Bhagavate Vaasudevaaya",
+            "meaning": "Salutations to Lord Vasudeva (Vishnu), who dwells within all beings.",
+            "audio": null
+          },
+          "quiz": [
+            {
+              "question": "Onam welcomes which king home?",
+              "options": [
+                "King Mahabali",
+                "King Ravana",
+                "King Dasharatha"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "As whom did Vishnu appear?",
+              "options": [
+                "Vamana, a small boy",
+                "A lion",
+                "A fish"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "What flower carpet is made?",
+              "options": [
+                "Pookalam",
+                "A kite display",
+                "Sand art"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Onam is especially loved in?",
+              "options": [
+                "Kerala",
+                "Punjab",
+                "Bengal"
+              ],
+              "answer": 0,
+              "explanation": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "rakshabandhan",
+      "slug": "rakshabandhan",
+      "order": 25,
+      "deity": null,
+      "icon": "rakshabandhan",
+      "image": null,
+      "languages": {
+        "en": {
+          "title": "Raksha Bandhan",
+          "subtitle": "The bond of love and protection",
+          "story": "Raksha Bandhan celebrates the loving bond between brothers and sisters, and between all who care for one another. On this full-moon day a sister ties a sacred thread (rakhi) on her brother’s wrist, praying for his well-being, and the brother promises to protect and support her. The name itself means “the bond (bandhan) of protection (raksha)”.",
+          "rituals": "Sisters tie the rakhi and offer sweets, and families exchange good wishes. In the temple a sacred thread is also offered to the deity, asking protection for all.",
+          "importance": "We celebrate Raksha Bandhan to honour the promise to care for and protect one another. It reminds us that love shown in small, faithful ways — a thread, a wish, a promise kept — is what holds families and friends together.",
+          "shloka": {
+            "original": "येन बद्धो बली राजा दानवेन्द्रो महाबलः ।\nतेन त्वामनुबध्नामि रक्षे मा चल मा चल ॥",
+            "transliteration": "Yena Baddho Balee Raajaa Daanavendro Mahaabalah,\nTena Tvaam-anubadhnaami Rakshe Maa Chala Maa Chala",
+            "meaning": "By the very bond with which the mighty King Bali was once bound, I bind you, O protecting thread; do not waver, do not waver.",
+            "audio": null
+          },
+          "quiz": [
+            {
+              "question": "What does a sister tie on her brother’s wrist?",
+              "options": [
+                "A rakhi (sacred thread)",
+                "A ring",
+                "A flower"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "“Raksha Bandhan” means the bond of?",
+              "options": [
+                "Protection",
+                "Wealth",
+                "Victory"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "What does the brother promise?",
+              "options": [
+                "To protect and support",
+                "To give gold",
+                "To travel far"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "It celebrates the bond between?",
+              "options": [
+                "Brothers and sisters",
+                "Only kings",
+                "Only teachers"
+              ],
+              "answer": 0,
+              "explanation": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "sharadnavaratri",
+      "slug": "sharadnavaratri",
+      "order": 26,
+      "deity": null,
+      "icon": "sharadnavaratri",
+      "image": null,
+      "languages": {
+        "en": {
+          "title": "Sharad Navaratri",
+          "subtitle": "Nine nights honouring the Goddess",
+          "story": "Sharad Navaratri is nine nights of devotion to Goddess Durga in her many forms — powerful, protecting, and full of light. Long ago a demon named Mahishasura could not be defeated by any god alone, so the gods’ combined energies became the mighty Goddess Durga, riding a lion. For nine nights she battled him, and on the tenth day she won — showing that goodness, when united, always overcomes evil.",
+          "rituals": "For nine nights the temple honours the Goddess in her different forms with special decorations and daily puja. Homes display rows of dolls (golu / bommai kolu), and devotees sing and dance in her praise.",
+          "importance": "We celebrate Sharad Navaratri to honour the Goddess’s strength and to remember that many good people standing together can overcome even the hardest evil. Each night invites us to grow braver, kinder, and wiser.",
+          "shloka": {
+            "original": "या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता ।\nनमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥",
+            "transliteration": "Yaa Devi Sarva-bhooteshu Shakti-roopena Samsthitaa,\nNamas-tasyai Namas-tasyai Namas-tasyai Namo Namah",
+            "meaning": "To the Goddess who dwells in all beings as power — to her we bow, again and again and again.",
+            "audio": null
+          },
+          "quiz": [
+            {
+              "question": "How many nights is Navaratri?",
+              "options": [
+                "Nine",
+                "Three",
+                "Seven"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Which demon did Durga defeat?",
+              "options": [
+                "Mahishasura",
+                "Ravana",
+                "Kamsa"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Durga’s power came from?",
+              "options": [
+                "The combined energy of the gods",
+                "A single weapon",
+                "One magic spell"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "What do many homes display?",
+              "options": [
+                "Rows of dolls (golu)",
+                "Kites",
+                "Bonfires"
+              ],
+              "answer": 0,
+              "explanation": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "saraswatipuja",
+      "slug": "saraswatipuja",
+      "order": 27,
+      "deity": null,
+      "icon": "saraswatipuja",
+      "image": null,
+      "languages": {
+        "en": {
+          "title": "Saraswati Puja",
+          "subtitle": "Honouring the goddess of knowledge during Navaratri",
+          "story": "Saraswati Puja, near the end of Navaratri, worships Goddess Saraswati, the goddess of knowledge, music, and the arts. On this day students and artists place their books, pens, and instruments before the goddess and let them rest, trusting that learning is a gift from her. It is a day to give thanks for the joy of knowing and creating.",
+          "rituals": "Books, musical instruments, and tools of learning are placed before Saraswati and worshipped, and the temple offers special prayers, often with white and yellow flowers.",
+          "importance": "We celebrate Saraswati Puja to thank the goddess for the gift of knowledge and to promise to use our learning wisely and kindly. It reminds us that studying and creating, done with devotion, are themselves a form of worship.",
+          "shloka": {
+            "original": "या कुन्देन्दुतुषारहारधवला या शुभ्रवस्त्रावृता ।\nया वीणावरदण्डमण्डितकरा या श्वेतपद्मासना ॥",
+            "transliteration": "Yaa Kundendu-tushaara-haara-dhavalaa Yaa Shubhra-vastraavritaa,\nYaa Veenaa-vara-danda-mandita-karaa Yaa Shweta-padmaasanaa",
+            "meaning": "She who is white as the jasmine, the moon, and snow, clothed in pure white, her hands graced by the veena, seated on a white lotus — Goddess Saraswati.",
+            "audio": null
+          },
+          "quiz": [
+            {
+              "question": "Saraswati is the goddess of?",
+              "options": [
+                "Knowledge and the arts",
+                "War",
+                "Rain"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "What do students place before her?",
+              "options": [
+                "Books and instruments",
+                "Coins",
+                "Toys"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Saraswati Puja is celebrated during?",
+              "options": [
+                "Navaratri",
+                "Diwali",
+                "Holi"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Which flower colours are common?",
+              "options": [
+                "White and yellow",
+                "Only red",
+                "Only black"
+              ],
+              "answer": 0,
+              "explanation": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "karthikapoornima",
+      "slug": "karthikapoornima",
+      "order": 28,
+      "deity": null,
+      "icon": "karthikapoornima",
+      "image": null,
+      "languages": {
+        "en": {
+          "title": "Karthika Poornima",
+          "subtitle": "The full-moon festival of lamps",
+          "story": "Karthika Poornima is the full-moon day of the holy month of Karthika, one of the brightest and most sacred nights of the year. It is linked to Lord Shiva, who on this day is said to have protected the world from a great evil, and it is dear to devotees of Vishnu and Murugan too. People light row upon row of lamps, so the whole night glows with tiny flames.",
+          "rituals": "Devotees light many lamps in the temple and by rivers, offer special prayers, and some float little lamps on water. The temple performs abhishekam and lights a tall lamp in the Lord’s honour.",
+          "importance": "We celebrate Karthika Poornima to fill the darkest season with light and to thank God for protecting the world from evil. Each lamp is a small promise to carry light, hope, and goodness wherever we go.",
+          "shloka": {
+            "original": "ॐ नमः शिवाय ॥",
+            "transliteration": "Om Namah Shivaaya",
+            "meaning": "Salutations to Lord Shiva.",
+            "audio": null
+          },
+          "quiz": [
+            {
+              "question": "Karthika Poornima falls on which moon day?",
+              "options": [
+                "Full moon",
+                "New moon",
+                "Half moon"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "What do people light in large numbers?",
+              "options": [
+                "Lamps",
+                "Only fireworks",
+                "Only candles"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "It is especially linked to which Lord?",
+              "options": [
+                "Shiva",
+                "Brahma",
+                "Indra"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "The lamps stand for?",
+              "options": [
+                "Light, hope, and goodness",
+                "Only wealth",
+                "Victory in war"
+              ],
+              "answer": 0,
+              "explanation": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "subramanyashashti",
+      "slug": "subramanyashashti",
+      "order": 29,
+      "deity": null,
+      "icon": "subramanyashashti",
+      "image": null,
+      "languages": {
+        "en": {
+          "title": "Subramanya Shashti",
+          "subtitle": "Lord Murugan’s day of victory (Champa Shashti)",
+          "story": "Subramanya Shashti, also called Champa Shashti, honours Lord Subramanya (Murugan) on the sixth day (Shashti) of the bright fortnight. It celebrates his role as the brave commander of the gods’ armies, who protects the good and defeats what is harmful. In many places, snake mounds — linked to Subramanya — are also honoured on this day.",
+          "rituals": "The temple performs special abhishekam and prayers to Lord Subramanya, and devotees offer flowers and light lamps, some observing a fast until the evening.",
+          "importance": "We observe Subramanya Shashti to ask for Lord Murugan’s protection and courage, and to remember that strength is meant to guard the good. It teaches us to be brave and disciplined for the right reasons.",
+          "shloka": {
+            "original": "ॐ श्री सुब्रह्मण्याय नमः ॥",
+            "transliteration": "Om Shri Subrahmanyaaya Namaha",
+            "meaning": "Salutations to Lord Subramanya (Murugan).",
+            "audio": null
+          },
+          "quiz": [
+            {
+              "question": "Subramanya Shashti falls on which day of the fortnight?",
+              "options": [
+                "The sixth (Shashti)",
+                "The first",
+                "The tenth"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Murugan is the commander of?",
+              "options": [
+                "The gods’ armies",
+                "A kingdom’s navy",
+                "A school"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Subramanya Shashti is also called?",
+              "options": [
+                "Champa Shashti",
+                "Onam",
+                "Karthika"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Some devotees observe?",
+              "options": [
+                "A fast until evening",
+                "A silent week",
+                "A long journey"
+              ],
+              "answer": 0,
+              "explanation": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "dattatreya",
+      "slug": "dattatreya",
+      "order": 30,
+      "deity": null,
+      "icon": "dattatreya",
+      "image": null,
+      "languages": {
+        "en": {
+          "title": "Datta Jayanti",
+          "subtitle": "The birth of Lord Dattatreya",
+          "story": "Datta Jayanti celebrates the birth of Lord Dattatreya, a unique form of God in whom Brahma, Vishnu, and Shiva are joined as one. Dattatreya is honoured as the first and greatest guru (teacher), who taught that we can learn from everything and everyone around us. He is especially dear to Sai Baba’s devotees, for Baba is often seen as a form of Datta, the compassionate guru.",
+          "rituals": "The temple offers special prayers and abhishekam to Lord Dattatreya, with bhajans and readings of his stories. Devotees often mark the day with fasting, charity, and devotion to their guru.",
+          "importance": "We celebrate Datta Jayanti to honour the guru who unites Brahma, Vishnu, and Shiva, and to remember that a true teacher guides us gently toward goodness. It reminds us to stay humble and to keep learning from the world around us.",
+          "shloka": {
+            "original": "दत्तात्रेयं महात्मानं वरदं भक्तवत्सलम् ।\nप्रपन्नार्तिहरं वन्दे स्मर्तृगामी सनोऽवतु ॥",
+            "transliteration": "Dattaatreyam Mahaatmaanam Varadam Bhakta-vatsalam,\nPrapannaarti-haram Vande Smartrigaamee Sano’vatu",
+            "meaning": "I bow to the great soul Dattatreya, giver of boons, loving to his devotees, remover of the suffering of those who surrender; may he who comes to those who remember him protect us.",
+            "audio": null
+          },
+          "quiz": [
+            {
+              "question": "Dattatreya joins which three gods?",
+              "options": [
+                "Brahma, Vishnu, and Shiva",
+                "Indra, Agni, and Vayu",
+                "Rama, Krishna, and Shiva"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Dattatreya is honoured as the first great?",
+              "options": [
+                "Guru (teacher)",
+                "King",
+                "Warrior"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "He is especially dear to devotees of?",
+              "options": [
+                "Sai Baba",
+                "Only Ganesha",
+                "Only Hanuman"
+              ],
+              "answer": 0,
+              "explanation": null
+            },
+            {
+              "question": "Dattatreya taught that we can learn from?",
+              "options": [
+                "Everything around us",
+                "Only books",
+                "Only elders"
+              ],
+              "answer": 0,
+              "explanation": null
+            }
+          ]
+        }
+      }
     }
   ]
 }

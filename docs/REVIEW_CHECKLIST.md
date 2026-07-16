@@ -1,525 +1,405 @@
-# Content Review Checklist
+# Content Review Checklist — Sai Baba Temple
 
-Every festival's content — in **all four languages** — should be reviewed and
-approved by a qualified person (priest, elder, teacher, temple representative, or
-native-language reviewer) before it is treated as final.
+Every festival must be reviewed and approved by a priest/elder before it is treated as final.
 
-This app was refactored from a working prototype. The **original English, Telugu,
-Tamil, and Hindi content was preserved exactly** (no rewriting). During the
-refactor, some short **interface labels** were added and translated — these are
-listed in the "Interface labels" section at the end and also need a native
-speaker's confirmation.
+## ⚠️ Priority: the 16 🆕 festivals are AI-drafted and UNVERIFIED
+They currently have **English only** (Telugu/Tamil/Hindi fall back to English until translated), and each carries a **proposed, widely-known shloka the priest must confirm** (spelling and choice). Review these first.
 
-## How to use this checklist
-
-1. Open `data/festivals.json` (content) alongside the running app (`npm run dev`).
-2. For each festival below, read every language and tick each box once verified.
-3. Record who approved it and when.
-4. Note any regional or family variations in the Notes line.
-5. Fixes should be limited to spelling, grammar, encoding, or clearly wrong facts
-   — do **not** rewrite culturally sensitive content without the reviewer's
-   agreement.
-
-## ⚠️ Priority: English story + "why" were revised (2026-07-16) — UNVERIFIED
-
-On 2026-07-16 the **English** `story` and `importance` ("Why We Do This") text for
-**all 21 festivals** was rewritten to (a) explain *why* each festival is celebrated
-rather than just summarize, and (b) remove duplication (the story's trailing
-"that's why…" sentence was trimmed for 7 festivals so it no longer repeats the
-"Why"). **None of this new wording has been verified yet** — please re-check every
-festival's English "story" and "importance" below, watching for accuracy and
-regional-variation claims (e.g. Diwali's reason, Shivaratri's night, Ganesha's
-immersion). The **Telugu / Tamil / Hindi** versions were **not** changed, so they
-currently differ from English on purpose; they will be re-translated only **after**
-the English is approved.
-
-## Things known to need confirmation
-
-- **Deity field**: left blank (`null`) for every festival — not guessed. Fill in
-  during review if the temple wants it recorded (it is optional and not shown in
-  the UI today).
-- **Interface label translations** (Telugu/Tamil/Hindi) added during the refactor
-  — see the final section.
-- **Dates** in `data/festivals.json` under `"dates"` come from the original
-  prototype and should be checked against the temple's published calendar.
+- **Sai Vigraha Pratishtha Varshikotsavam** — story is intentionally GENERAL; the temple must add its own idol-installation date and story.
+- **Vijaya Dasami** — confirm the Baba Maha Samadhi framing (to be added).
+- Regional interpretations (e.g. Panguni Uthiram as Ayyappa’s birthday) follow the temple’s own calendar.
 
 ---
 
-## Per-festival review
+## Per-festival review (calendar order)
 
-### Sri Goda Kalyanam  
-_id: `godakalyanam`_
+### Makara Sankranti
+_id: `makarasankranti`  ·  Jan 14_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Makara Sankranti  
-_id: `makarasankranti`_
+### Vasant Panchami  🆕 NEW — English only, shloka proposed (UNVERIFIED)
+_id: `vasanthpanchami`  ·  Jan 23_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi translation added & reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Maha Shivaratri  
-_id: `shivaratri`_
+### Ratha Saptami  🆕 NEW — English only, shloka proposed (UNVERIFIED)
+_id: `rathasaptami`  ·  Jan 25_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi translation added & reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Sri Mahalakshmi Jayanthi  
-_id: `mahalakshmijayanthi`_
+### Thai Poosam  🆕 NEW — English only, shloka proposed (UNVERIFIED)
+_id: `thaipoosam`  ·  Jan 31_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi translation added & reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Yugadi (Ugadi)  
-_id: `yugadi`_
+### Maha Shivaratri
+_id: `shivaratri`  ·  Feb 15_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Sri Rama Navami  
-_id: `ramanavami`_
+### Holi  🆕 NEW — English only, shloka proposed (UNVERIFIED)
+_id: `holi`  ·  Mar 3_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi translation added & reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Hanuman Jayanthi  
-_id: `hanumanjayanthi`_
+### Yugadi (Ugadi)
+_id: `yugadi`  ·  Mar 19_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Sivalaya Varshikotsavam  
-_id: `sivalayavarshikotsavam`_
+### Sri Rama Navami
+_id: `ramanavami`  ·  Mar 26_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Tamil New Year (Puthandu) & Vishu  
-_id: `tamilnewyearvishu`_
+### Panguni Uthiram  🆕 NEW — English only, shloka proposed (UNVERIFIED)
+_id: `panguniuthiram`  ·  Mar 31_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi translation added & reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Akshaya Tritiya  
-_id: `akshayatritiya`_
+### Hanuman Jayanthi
+_id: `hanumanjayanthi`  ·  Apr 1 & May 11_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Brahmotsavam  
-_id: `brahmotsavam`_
+### Tamil New Year (Puthandu) & Vishu
+_id: `tamilnewyearvishu`  ·  Apr 14_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Guru Purnima  
-_id: `gurupurnima`_
+### Akshaya Tritiya
+_id: `akshayatritiya`  ·  May 15_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Pavithrotsavam  
-_id: `pavithrotsavam`_
+### Shani Trayodasi  🆕 NEW — English only, shloka proposed (UNVERIFIED)
+_id: `shanitrayodasi`  ·  Jun 27 & Nov 21_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi translation added & reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Krishna Janmashtami  
-_id: `janmashtami`_
+### Guru Purnima
+_id: `gurupurnima`  ·  Jul 28_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Ganesh Chaturthi (Vinayaka Chavithi)  
-_id: `ganeshchaturthi`_
+### Adi Krithika  🆕 NEW — English only, shloka proposed (UNVERIFIED)
+_id: `adikrithika`  ·  Aug 7_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi translation added & reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Dussehra (Vijayadashami)  
-_id: `dussehra`_
+### Sai Vigraha Pratishtha Varshikotsavam  🆕 NEW — English only, shloka proposed (UNVERIFIED)
+_id: `saivigrahaprathista`  ·  Aug 13_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi translation added & reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Srivaru Jayanti  
-_id: `srivarujayanti`_
+### Vara Lakshmi Vratham  🆕 NEW — English only, shloka proposed (UNVERIFIED)
+_id: `varalakshmi`  ·  Aug 21_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi translation added & reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Diwali (Deepavali)  
-_id: `diwali`_
+### Thiru Onam  🆕 NEW — English only, shloka proposed (UNVERIFIED)
+_id: `thiruonam`  ·  Aug 26_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi translation added & reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Skanda Sashti  
-_id: `skandashashti`_
+### Raksha Bandhan  🆕 NEW — English only, shloka proposed (UNVERIFIED)
+_id: `rakshabandhan`  ·  Aug 27_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi translation added & reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Ayyappa Mandala Kalam Begins  
-_id: `ayyappamandala`_
+### Krishna Janmashtami
+_id: `janmashtami`  ·  Sep 3_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-### Vaikuntha Ekadasi  
-_id: `vaikunthaekadasi`_
+### Ganesh Chaturthi (Vinayaka Chavithi)
+_id: `ganeshchaturthi`  ·  Sep 14_
 
-- [ ] English story reviewed
-- [ ] Telugu translation reviewed
-- [ ] Tamil translation reviewed
-- [ ] Hindi translation reviewed
-- [ ] Festival importance reviewed
-- [ ] Ritual / temple description reviewed
-- [ ] Shloka spelling reviewed
-- [ ] Transliteration reviewed
-- [ ] Meaning reviewed
-- [ ] Quiz questions & correct answers verified
-- [ ] Audio pronunciation reviewed (if audio added)
-- [ ] Deity field confirmed (optional)
-- [ ] Reviewed by (priest / elder / teacher / temple rep): _____________
-- [ ] Approval date: __________  Reviewer name: __________
-- Notes / regional variations: 
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
 ---
 
-## Interface labels added during the refactor (confirm translations)
+### Sharad Navaratri  🆕 NEW — English only, shloka proposed (UNVERIFIED)
+_id: `sharadnavaratri`  ·  Oct 11_
 
-These UI strings live in `js/i18n.js`. The English is authoritative; please
-confirm the Telugu, Tamil, and Hindi wording reads naturally:
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi translation added & reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
-- `chooseLanguage` — "Choose language"
-- `chooseFestival` — "Choose a festival"
-- `calendarLabel` — "Festival Calendar" (shown as "Festival Calendar, 2026")
-- `correctTag` — "Correct answer" (screen-reader label on the right answer)
-- `yourAnswerTag` — "Your answer" (screen-reader label on a wrong pick)
-- `questionWord` — "Question"
-- `playAudio` / `pauseAudio` / `restartAudio` — audio player labels
-- `viewCalendar` — "View the Temple Calendar"
-- `backToTemple` — "Back to Temple Website"
-- `activitySheet` — "Printable activity page"
-- `readAloud` — "Read aloud" (button that speaks the story via browser voice)
-- `readResume` — "Resume"
-- `readStop` — "Stop"
-- `readUnavailable` — "A voice for this language isn't available on this device"
+---
 
-## Festival art (symbolic, review optional)
+### Saraswati Puja  🆕 NEW — English only, shloka proposed (UNVERIFIED)
+_id: `saraswatipuja`  ·  Oct 16_
 
-Each festival has a generated decorative SVG banner (`assets/images/<id>.svg`) using
-symbolic motifs (lamp, lotus, conch, vel, arch, toran) — **not** depictions of
-deities' faces/forms. If the temple prefers different artwork, replace the file or
-set the festival's `"image"` field. Confirm the motif choice per festival is
-acceptable:
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi translation added & reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
 
-- [ ] Festival art motifs reviewed / approved
-- Reviewer: __________  Date: __________
+---
 
-- [ ] Telugu interface labels confirmed
-- [ ] Tamil interface labels confirmed
-- [ ] Hindi interface labels confirmed
-- Reviewer: __________  Date: __________
+### Dussehra (Vijayadashami)
+_id: `dussehra`  ·  Oct 20_
+
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
+
+---
+
+### Diwali (Deepavali)
+_id: `diwali`  ·  Nov 8_
+
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
+
+---
+
+### Skanda Sashti
+_id: `skandashashti`  ·  Nov 14_
+
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
+
+---
+
+### Karthika Poornima  🆕 NEW — English only, shloka proposed (UNVERIFIED)
+_id: `karthikapoornima`  ·  Nov 23_
+
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi translation added & reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
+
+---
+
+### Subramanya Shashti  🆕 NEW — English only, shloka proposed (UNVERIFIED)
+_id: `subramanyashashti`  ·  Nov 29_
+
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi translation added & reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
+
+---
+
+### Vaikuntha Ekadasi
+_id: `vaikunthaekadasi`  ·  Dec 20_
+
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
+
+---
+
+### Datta Jayanti  🆕 NEW — English only, shloka proposed (UNVERIFIED)
+_id: `dattatreya`  ·  Dec 23_
+
+- [ ] English story & why reviewed
+- [ ] Telugu / Tamil / Hindi translation added & reviewed
+- [ ] Ritual description reviewed
+- [ ] Shloka spelling & choice confirmed by priest
+- [ ] Transliteration & meaning reviewed
+- [ ] Quiz answers verified
+- [ ] Reviewed by: __________  Date: __________
+
+---
+
